@@ -1,0 +1,79 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+אבוצ&#39;י הוא אמן ישראלי עם זהות מוזיקלית ייחודית. קנה מוצרי מעריצים אקסקלוזיביים — חולצות, כובעים, תכשיטים ועוד. הצטרף לקהילה וחווה את המותג מקרוב!
+
+### אודות
+https://example.com/about
+גלה מי זה אבוצ&#39;י — זמר ישראלי יוצר שמשלב מוזיקה עם אופנה ותרבות. הכר את החזון, הדרך והאמן שמאחורי המותג שכובש את הלבבות. הסיפור מתחיל כאן.
+
+### גלריה
+https://example.com/gallery
+גלריית התמונות של אבוצ&#39;י מביאה לך מבט מקרוב על הסטייל, ההופעות ומוצרי המעריצים. השראה בכל פריים — גלה את הלוק, אהוב את האמן, וקנה חולצות אבוצ&#39;י אונליין.
+
+### צור קשר
+https://example.com/contact
+יש לך שאלה על מוצרי המעריצים של אבוצ&#39;י? רוצה לשתף פעולה או לקבל עדכונים ראשון? צור קשר עכשיו ותחווה שירות אישי מהמותג הישראלי שכולם מדברים עליו.
+
+### Products
+https://example.com/products
+המוצרים שלנו - ABUCHI
+
+### Cart
+https://example.com/cart
+עגלת הקניות שלך
+
+### Checkout
+https://example.com/checkout
+תשלום
+
+### Login
+https://example.com/login
+התחברות לקוחות
+
+### Account
+https://example.com/account
+החשבון שלי
+
+### Order Success
+https://example.com/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - ABUCHI
+
+### Category
+https://example.com/category/:slug
+מוצרים - ABUCHI
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
